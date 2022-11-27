@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daniel-W1
 - 👀 I’m interested in Front end development, AI and competitive programming...
 - 🌱 I’m currently 3rd year Software engineering student at AAiT.
-- 💞️ I’m looking to collaborate on Front end work, and CP.
+- 💞️ I’m looking to collaborate on Front end development.
 - 📫 How to reach me  EMAIL : wossendaniel7@gmail.com.
 - Interests: Chess, Quote( huge quote lover :) !), Music, and books.
 
